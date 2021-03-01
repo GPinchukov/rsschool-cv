@@ -1,6 +1,6 @@
 .glex{
     background-color: #cbeef0;
-    margin-top: 3%
+    margin-top: 3%;
 }
 
 .hlex{
@@ -9,8 +9,15 @@
 }
 
 .mlex{
-    margin-top: 8%
-    font-family: Georgia, serif;
-    font-size: 40pt;
+    margin-top: 25px;
+    font-family: Georgia;
+    font-size: 30pt;
+    line-height: 1;
+}
+
+.vlex{
+    margin-top: 25px;
+    font-family: Georgia;
+    font-size: 15pt;
     line-height: 1;
 }
