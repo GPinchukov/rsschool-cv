@@ -26,10 +26,22 @@
 }
 
 .blex{
-    left: 0; bottom: 0;
+    bottom: 0;
     padding: 10px;
     background: black;
     color: #fff;
     width: 100%;
     height: 200px;
+    position: absolute;
+    left: 0;
+    text-align: center;
+}
+
+.vlex{
+    max-width: 10%;
+    height: auto;
+}
+
+.link{
+    text-decoration: none;
 }
