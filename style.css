@@ -1,6 +1,9 @@
+
 .glex{
     background-color: #cbeef0;
     margin-top: 3%;
+
+
 }
 
 .hlex{
@@ -20,4 +23,13 @@
     font-family: Georgia;
     font-size: 15pt;
     line-height: 1;
+}
+
+.blex{
+    left: 0; bottom: 0;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    width: 100%;
+    height: 200px;
 }
