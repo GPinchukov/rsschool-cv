@@ -1,0 +1,60 @@
+
+.glex{
+    background-color: #cbeef0;
+    margin-top: 20px;
+
+
+}
+body {
+
+
+
+}
+
+.hlex{
+    max-width: 40%;
+    height: auto;
+}
+
+.mlex{
+    margin-top: 25px;
+    font-family: Georgia;
+    font-size: 30pt;
+    line-height: 1;
+}
+
+.vlex{
+    margin-top: 25px;
+    font-family: Georgia;
+    font-size: 15pt;
+    line-height: 1;
+}
+
+.blex{
+    width: 100%;
+    height: 240px;
+    line-height: 60px;
+    background: black;
+    color: #fff;
+    text-align: center;
+    font-family:Impact;
+}
+
+.vlex{
+    max-width: 10%;
+    height: auto;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.year{
+    margin-top: 3%;
+}
+
+.code{
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
