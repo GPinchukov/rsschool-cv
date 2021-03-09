@@ -5,6 +5,11 @@
 
 
 }
+body {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: 1fr auto;
+}
 
 .hlex{
     max-width: 40%;
@@ -27,12 +32,11 @@
 
 .blex{
     bottom: 0;
-    padding: 10px;
+    width: 100%;
+    height: 240px;
+    line-height: 60px;
     background: black;
     color: #fff;
-    width: 100%;
-    height: 200px;
-    left: 0;
     text-align: center;
     font-family:Impact;
 }
