@@ -6,9 +6,9 @@
 
 }
 body {
-    min-height: 100%;
-    display: grid;
-    grid-template-rows: 1fr auto;
+
+
+
 }
 
 .hlex{
@@ -31,7 +31,6 @@ body {
 }
 
 .blex{
-    bottom: 0;
     width: 100%;
     height: 240px;
     line-height: 60px;
